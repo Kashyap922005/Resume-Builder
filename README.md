@@ -2,7 +2,7 @@
 
 An interactive and customizable Resume Builder built with **React** and **Redux**, designed to help users create beautiful resumes with ease. Users can input their details, preview the resume live, and choose from multiple templates.
 
-![Resume Builder Preview]([https://github.com/Kashyap922005/Resume-Builder/assets/your-image-link-here](https://resume-builder-o7po6zt4w-kashyap922005s-projects.vercel.app)) <!-- (Optional) Add a preview image of the app -->
+![Resume Builder Preview]((https://resume-builder-o7po6zt4w-kashyap922005s-projects.vercel.app)) <!-- (Optional) Add a preview image of the app -->
 
 ## 🚀 Features
 
